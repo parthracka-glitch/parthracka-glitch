@@ -1,13 +1,17 @@
 <div align="center">
 
-  <h2>👋 Parth! 💻✨</h2>
+  <!-- Animated Typing Text SVG -->
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=👋+Hello,+I'm+Parth!;MERN+Stack+Architect;UI%2FUX+Design+Enthusiast;Engineering+Real-Time+Systems" alt="Typing SVG" />
+  </a>
   
   <p>Architecting robust backends ⚙️ | Crafting premium UIs 🎨 | Engineering real-time systems ⚡</p>
   <p><i>A Full-Stack Developer on a quest to build high-fidelity web apps and flawless user experiences! 🚀</i></p>
   
   <br />
   
-  <img src="https://skillicons.dev/icons?i=react,nodejs" height="70" alt="React and Node" />
+  <!-- Animated Pixel Art Coding GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" alt="Coding Animation" />
   
 </div>
 
@@ -25,6 +29,7 @@ From building scalable MERN stack architectures to designing sleek, glassmorphic
 My toolkit for coding, designing, and slaying projects:
 
 <p align="left">
+  <!-- Standard Tech Icons -->
   <img src="https://skillicons.dev/icons?i=js,cpp,mongodb,express,react,nodejs,tailwind,figma" alt="Tech Stack Icons" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
