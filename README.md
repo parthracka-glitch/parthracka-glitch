@@ -2,270 +2,155 @@
 
 # PARTH RACKA
 
-### <font color="#58A6FF">Full Stack Developer</font> · B.Tech IT Student · AI/ML Learner
+### Full Stack Developer · B.Tech IT · AI/ML Learner
 
-Building practical software and turning ideas into real-world products.
+Building real-world applications, business platforms and useful software.
 
 <br>
 
-<a href="https://github.com/parthracka-glitch">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF">
-</a>
-
-<a href="https://github.com/parthracka-glitch?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=parthracka-glitch&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS">
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/parthracka-glitch)
+[![Repositories](https://img.shields.io/badge/Repositories-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/parthracka-glitch?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=parthracka-glitch&style=flat-square&color=0D1117&label=Views)](https://github.com/parthracka-glitch)
 
 </div>
 
 ---
 
-# ABOUT ME
+## ABOUT
 
-I'm a **B.Tech Information Technology student** focused on building real-world web applications and learning modern software engineering.
+B.Tech Information Technology student focused on **full-stack development, backend engineering and AI/ML**.
 
-I enjoy working across the complete development cycle — from designing interfaces and building APIs to managing databases and deploying applications.
+I enjoy turning ideas into practical products — from business platforms and booking systems to healthcare and management applications.
 
-### Currently Focused On
-
-- Full Stack Development
-- Backend Engineering
-- REST APIs
-- Database Design
-- Authentication & Security
-- Artificial Intelligence & Machine Learning
-- Data Structures & Algorithms
-- Cloud & Deployment
-
-> **My approach:** Learn by building, solve real problems, and continuously improve.
+**Currently:** `Full Stack` · `Backend` · `AI/ML` · `DSA` · `System Design`
 
 ---
 
-# TECHNOLOGIES
+## TECH STACK
 
 <div align="center">
 
-### LANGUAGES
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=58A6FF)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=58A6FF)
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark">
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=58A6FF)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=58A6FF)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF)
 
-<br><br>
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=58A6FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=58A6FF)
 
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark">
-
-<br><br>
-
-### BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark">
-
-<br><br>
-
-### DATABASE
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark">
-
-<br><br>
-
-### TOOLS & DEPLOYMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel,aws&theme=dark">
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=58A6FF)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=58A6FF)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF)
 
 </div>
 
 ---
 
-# SELECTED PROJECTS
+## SELECTED WORK
 
-## 🚗 Modern Self Drive
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Self-Drive Car & Bike Rental Platform
+### 🚗 Modern Self Drive
 
-A complete rental platform designed for managing vehicles, customers and bookings.
+Self-drive **car & bike rental platform** with vehicle listings, bookings, KYC, authentication, payments and admin management.
 
-**Features**
+**React · Node.js · MongoDB**
 
-- Vehicle listings
-- Car & bike rentals
-- Booking management
-- User authentication
-- KYC verification
-- Driving licence verification
-- Payment integration
-- Customer management
-- Admin management
+</td>
 
-**Stack:** `React` · `Node.js` · `MongoDB` · `REST API`
+<td width="50%" valign="top">
 
----
+### 🏥 AarogyaSetu Bridge
 
-## 🏥 AarogyaSetu Bridge
+**Offline-first healthcare platform** connecting patients, ASHA workers and healthcare facilities with digital triage and teleconsultation.
 
-### Offline-First Healthcare Accessibility Platform
+**React · PWA · Node.js · MongoDB**
 
-A healthcare platform designed to connect **patients, ASHA workers and healthcare facilities**, with a focus on accessibility and low-connectivity environments.
+</td>
+</tr>
 
-**Features**
+<tr>
+<td width="50%" valign="top">
 
-- Patient management
-- ASHA worker workflow
-- Digital triage
-- Teleconsultation
-- Emergency assistance
-- Offline-first architecture
-- Healthcare referrals
-- Digital health records
-- Appointment management
+### 🧘 Divine Yoga Studio
 
-**Stack:** `React` · `PWA` · `Node.js` · `MongoDB`
+Centralized **studio management platform** for members, batches, instructors, attendance, memberships, schedules and records.
 
----
+**React · Node.js · MongoDB**
 
-## 🧘 Divine Yoga Studio
+</td>
 
-### Complete Yoga Studio Management Platform
+<td width="50%" valign="top">
 
-A centralized management system built for **Divine Yoga Studio** to manage studio data and daily operations.
+### 🚌 Aarambha Travels
 
-**Features**
+Travel platform for **tour packages, rental buses and self-drive cars**, with service, vehicle and booking management.
 
-- Student & member management
-- Batch management
-- Instructor management
-- Attendance tracking
-- Membership management
-- Scheduling
-- Records management
-- Reports
-- Centralized administration
+**React · Node.js · MongoDB**
 
-**Stack:** `React` · `Node.js` · `MongoDB` · `REST API`
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚌 Aarambha Travels
+## CLIENT & BUSINESS SOLUTIONS
 
-### Tours · Bus Rentals · Self-Drive Cars
+Building custom digital products for real-world businesses.
 
-A digital platform built for **Aarambha Travels**, a travel company providing tour packages, rental buses and self-drive cars.
-
-**Features**
-
-- Tour package management
-- Travel packages
-- Bus rental services
-- Self-drive car rentals
-- Vehicle listings
-- Customer enquiries
-- Booking management
-- Service management
-- Customer-facing experience
-
-**Stack:** `React` · `Node.js` · `MongoDB` · `REST API`
+`Business Websites` · `Booking Systems` · `Admin Dashboards` · `Management Systems` · `Rental Platforms` · `Travel Platforms`
 
 ---
 
-## 🌐 Business & Client Platforms
-
-### Custom Digital Solutions
-
-I also develop custom digital platforms for real-world businesses and clients.
-
-- Business websites
-- Booking systems
-- Admin dashboards
-- Management systems
-- Rental platforms
-- Travel platforms
-- Landing pages
-- Customer-facing applications
-
-My goal is to build **software that solves real business problems**, not just static websites.
-
----
-
-# GITHUB STATISTICS
+## GITHUB
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parthracka-glitch&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=parthracka-glitch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&include_all_commits=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthracka-glitch&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthracka-glitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&langs_count=6" />
 
 </div>
-
----
-
-# CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=parthracka-glitch&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC"/>
-
-</div>
-
----
-
-# CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthracka-glitch&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=58A6FF&hide_border=true"/>
-
-</div>
-
----
-
-# CURRENTLY LEARNING
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF">
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-0D1117?style=for-the-badge&logo=tensorflow&logoColor=58A6FF">
-<img src="https://img.shields.io/badge/FASTAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF">
-<img src="https://img.shields.io/badge/BACKEND-0D1117?style=for-the-badge&logo=node.js&logoColor=58A6FF">
-<img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF">
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-0D1117?style=for-the-badge&logo=diagrams.net&logoColor=58A6FF">
-
-</div>
-
----
-
-# DEVELOPMENT PHILOSOPHY
-
-<div align="center">
-
-### <font color="#58A6FF">BUILD · LEARN · IMPROVE</font>
 
 <br>
 
-Write clean code.  
-Build useful things.  
-Keep learning.
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=parthracka-glitch&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" />
 
 </div>
 
 ---
 
-# CONNECT
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<a href="https://github.com/parthracka-glitch">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF">
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthracka-glitch&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&hide_border=true&custom_title=Parth's%20Contribution%20Graph" />
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF">
-</a>
+</div>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF">
-</a>
+---
+
+## CURRENTLY LEARNING
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/AI-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF)
+![Machine Learning](https://img.shields.io/badge/ML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=58A6FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
+![DSA](https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF)
+![System Design](https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=58A6FF)
 
 </div>
 
@@ -273,10 +158,13 @@ Keep learning.
 
 <div align="center">
 
-### <font color="#58A6FF">Always Building. Always Learning.</font>
+### BUILD · LEARN · IMPROVE
 
-<br><br>
+*Turning ideas into useful software.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0D1117"/>
+<br>
+
+[![GitHub](https://img.shields.io/badge/Follow-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/parthracka-glitch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/)
 
 </div>
