@@ -56,7 +56,6 @@ FULL STACK DEVELOPMENT
         │
         └── AI / ML
                └── Python / Machine Learning
-TECHNOLOGIES
 Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" /> </p>
 Frontend
