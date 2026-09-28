@@ -2,80 +2,88 @@
 
 # PARTH RACKA
 
-### Full Stack Developer · B.Tech IT Student · AI/ML Learner
+### <font color="#58A6FF">Full Stack Developer</font> · B.Tech IT Student · AI/ML Learner
 
 Building practical software and turning ideas into real-world products.
 
 <br>
 
 <a href="https://github.com/parthracka-glitch">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF">
 </a>
-&nbsp;
+
 <a href="https://github.com/parthracka-glitch?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-111111?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF">
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=parthracka-glitch&style=flat-square&color=111111&label=PROFILE+VIEWS">
+
+<img src="https://komarev.com/ghpvc/?username=parthracka-glitch&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-## ABOUT ME
+# ABOUT ME
 
 I'm a **B.Tech Information Technology student** focused on building real-world web applications and learning modern software engineering.
 
 I enjoy working across the complete development cycle — from designing interfaces and building APIs to managing databases and deploying applications.
 
-### Currently focused on
+### Currently Focused On
 
 - Full Stack Development
 - Backend Engineering
 - REST APIs
 - Database Design
 - Authentication & Security
-- AI / Machine Learning
+- Artificial Intelligence & Machine Learning
 - Data Structures & Algorithms
 - Cloud & Deployment
 
-**My approach:** Learn by building, solve real problems, and continuously improve.
+> **My approach:** Learn by building, solve real problems, and continuously improve.
 
 ---
 
-## TECHNOLOGIES
+# TECHNOLOGIES
 
 <div align="center">
 
-### Languages
+### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark">
 
-### Frontend
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap">
+### FRONTEND
 
-### Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi">
+<br><br>
 
-### Database
+### BACKEND
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark">
 
-### Tools & Deployment
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel,aws">
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark">
+
+<br><br>
+
+### TOOLS & DEPLOYMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel,aws&theme=dark">
 
 </div>
 
 ---
 
-## SELECTED PROJECTS
+# SELECTED PROJECTS
 
-### 🚗 Modern Self Drive
+## 🚗 Modern Self Drive
 
-**Self-Drive Car & Bike Rental Platform**
+### Self-Drive Car & Bike Rental Platform
 
 A complete rental platform designed for managing vehicles, customers and bookings.
 
@@ -91,15 +99,15 @@ A complete rental platform designed for managing vehicles, customers and booking
 - Customer management
 - Admin management
 
-**Stack:** React · Node.js · MongoDB · REST API
+**Stack:** `React` · `Node.js` · `MongoDB` · `REST API`
 
 ---
 
-### 🏥 AarogyaSetu Bridge
+## 🏥 AarogyaSetu Bridge
 
-**Offline-First Healthcare Accessibility Platform**
+### Offline-First Healthcare Accessibility Platform
 
-A healthcare platform designed to connect patients, ASHA workers and healthcare facilities, with a focus on accessibility and low-connectivity environments.
+A healthcare platform designed to connect **patients, ASHA workers and healthcare facilities**, with a focus on accessibility and low-connectivity environments.
 
 **Features**
 
@@ -113,15 +121,15 @@ A healthcare platform designed to connect patients, ASHA workers and healthcare 
 - Digital health records
 - Appointment management
 
-**Stack:** React · PWA · Node.js · MongoDB
+**Stack:** `React` · `PWA` · `Node.js` · `MongoDB`
 
 ---
 
-### 🧘 Divine Yoga Studio
+## 🧘 Divine Yoga Studio
 
-**Complete Yoga Studio Management Platform**
+### Complete Yoga Studio Management Platform
 
-A centralized management system built for Divine Yoga Studio to manage the studio's data and daily operations.
+A centralized management system built for **Divine Yoga Studio** to manage studio data and daily operations.
 
 **Features**
 
@@ -135,15 +143,15 @@ A centralized management system built for Divine Yoga Studio to manage the studi
 - Reports
 - Centralized administration
 
-**Stack:** React · Node.js · MongoDB · REST API
+**Stack:** `React` · `Node.js` · `MongoDB` · `REST API`
 
 ---
 
-### 🚌 Aarambha Travels
+## 🚌 Aarambha Travels
 
-**Tours · Bus Rentals · Self-Drive Cars**
+### Tours · Bus Rentals · Self-Drive Cars
 
-A digital platform built for Aarambha Travels, a travel company providing tour packages, rental buses and self-drive cars.
+A digital platform built for **Aarambha Travels**, a travel company providing tour packages, rental buses and self-drive cars.
 
 **Features**
 
@@ -157,15 +165,15 @@ A digital platform built for Aarambha Travels, a travel company providing tour p
 - Service management
 - Customer-facing experience
 
-**Stack:** React · Node.js · MongoDB · REST API
+**Stack:** `React` · `Node.js` · `MongoDB` · `REST API`
 
 ---
 
-### 🌐 Business & Client Platforms
+## 🌐 Business & Client Platforms
 
-**Custom Digital Solutions for Real Businesses**
+### Custom Digital Solutions
 
-I also develop custom digital platforms for businesses and clients.
+I also develop custom digital platforms for real-world businesses and clients.
 
 - Business websites
 - Booking systems
@@ -176,60 +184,62 @@ I also develop custom digital platforms for businesses and clients.
 - Landing pages
 - Customer-facing applications
 
+My goal is to build **software that solves real business problems**, not just static websites.
+
 ---
 
-## GITHUB STATISTICS
+# GITHUB STATISTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parthracka-glitch&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&include_all_commits=true">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=parthracka-glitch&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthracka-glitch&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthracka-glitch&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&langs_count=8"/>
 
 </div>
 
 ---
 
-## CONTRIBUTION STREAK
+# CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=parthracka-glitch&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF">
+<img src="https://streak-stats.demolab.com/?user=parthracka-glitch&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC"/>
 
 </div>
 
 ---
 
-## CONTRIBUTION ACTIVITY
+# CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthracka-glitch&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFFFFF&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthracka-glitch&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=58A6FF&hide_border=true"/>
 
 </div>
 
 ---
 
-## CURRENTLY LEARNING
+# CURRENTLY LEARNING
 
 <div align="center">
 
-`Artificial Intelligence`  
-`Machine Learning`  
-`FastAPI`  
-`Backend Architecture`  
-`Data Structures & Algorithms`  
-`System Design`
+<img src="https://img.shields.io/badge/AI-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-0D1117?style=for-the-badge&logo=tensorflow&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/FASTAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/BACKEND-0D1117?style=for-the-badge&logo=node.js&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-0D1117?style=for-the-badge&logo=diagrams.net&logoColor=58A6FF">
 
 </div>
 
 ---
 
-## DEVELOPMENT
+# DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
-### BUILD · LEARN · IMPROVE
+### <font color="#58A6FF">BUILD · LEARN · IMPROVE</font>
 
 <br>
 
@@ -241,20 +251,20 @@ Keep learning.
 
 ---
 
-## CONNECT
+# CONNECT
 
 <div align="center">
 
 <a href="https://github.com/parthracka-glitch">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF">
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF">
 </a>
 
 </div>
@@ -263,6 +273,10 @@ Keep learning.
 
 <div align="center">
 
-### `Always Building. Always Learning.`
+### <font color="#58A6FF">Always Building. Always Learning.</font>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0D1117"/>
 
 </div>
