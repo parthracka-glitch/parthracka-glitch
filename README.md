@@ -1,226 +1,86 @@
-<div align="center">
+<h1 align="center">Hi, I'm Parth Racka 👋</h1>
 
-<!-- HERO -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=180&section=header&text=PARTH%20RACKA&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%20•%20%20AI%2FML%20LEARNER&descAlignY=65&descSize=15"/>
-
-### Building ideas → products → real-world software
-
-<p>
-  <a href="https://github.com/parthracka-glitch">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:parthracka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-  </a>
+<p align="center">
+  B.Tech Information Technology student and full-stack developer<br>
+  building practical products across web, backend and AI/ML.
 </p>
 
-</div>
+<p align="center">
+  <a href="mailto:parthracka@gmail.com"><img src="https://img.shields.io/badge/Email-parthracka@gmail.com-111C35?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/parthracka-glitch"><img src="https://img.shields.io/badge/GitHub-parthracka--glitch-111C35?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-## ⚡ About Me
+## About
 
-<table>
-<tr>
-<td width="55%">
+I turn ideas into working digital products: booking systems, business platforms, and healthcare and management applications. I work across the stack, from designing the data model and APIs to shipping a responsive UI.
 
-### Hi, I'm Parth 👋
-
-I'm a **B.Tech Information Technology student** focused on building practical software and learning how modern systems work.
-
-I enjoy turning ideas into:
-
-- 🌐 Full-stack web applications
-- ⚙️ Backend systems & APIs
-- 🚗 Business & booking platforms
-- 🏥 Healthcare applications
-- 🤖 AI/ML experiments
-- 🧩 Problem-solving & system design
-
-<br>
-
-**Current focus**
-
-`Full Stack` · `Backend` · `AI/ML` · `DSA` · `System Design`
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,aws,git&perline=4" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=330&lines=Building+real-world+products;Learning+AI%2FML;Exploring+backend+systems;Turning+ideas+into+software" />
-
-</td>
-</tr>
-</table>
+**Currently focused on:** Full-stack development · Backend engineering · System design · DSA · AI/ML
 
 ---
 
-# 🧠 What I Build
+## Tech Stack
 
-<div align="center">
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, Java, C++, JavaScript |
+| **Frontend** | React, Next.js, HTML, CSS, Tailwind CSS |
+| **Backend** | Node.js, Express, FastAPI, REST APIs |
+| **Databases** | MongoDB, PostgreSQL, MySQL |
+| **Tools & Cloud** | Git, GitHub, Docker, AWS, Vercel, Figma, VS Code |
 
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🌐 WEB
-
-Modern interfaces  
-Full-stack applications  
-Responsive experiences
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ BACKEND
-
-REST APIs  
-Authentication  
-Databases  
-Business logic
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 AI / ML
-
-Python  
-Machine Learning  
-Automation  
-Intelligent systems
-
-</td>
-
-</tr>
-</table>
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nextjs,html,css,tailwind,nodejs,express,fastapi,mongodb,postgres,mysql,git,github,docker,aws,vercel,figma,vscode&perline=11" alt="Tech stack icons"/>
+</p>
 
 ---
 
-# 🚀 Selected Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
+## Selected Projects
 
 ### 🚗 Modern Self Drive
-
-**Self-drive car & bike rental platform**
-
-`React` `Node.js` `MongoDB` `Razorpay`
-
-Booking system • KYC • OTP • Payments • Admin
-
-</td>
-
-<td width="50%">
-
-### 🧘 Divine Yoga Studio
-
-**Modern wellness & yoga platform**
-
-`React` `Node.js` `MongoDB`
-
-Programs • Trainers • Scheduling • Responsive UI
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ⚖️ Law Kaksha
-
-**Educational platform for legal studies**
-
-`React` `Node.js` `MongoDB`
-
-Courses • Content • Student experience • Branding
-
-</td>
-
-<td width="50%">
+Self-drive car and bike rental platform covering vehicle discovery, booking and administration.
+- **Features:** vehicle booking, KYC, OTP verification, payments, admin panel
+- **Stack:** React · Node.js · MongoDB · Razorpay
 
 ### 🏥 AarogyaSetu Bridge
+Healthcare accessibility platform designed for rural, low-connectivity environments.
+- **Features:** ASHA worker and patient flows, teleconsultation, emergency support, offline-first
+- **Stack:** React (PWA) · Node.js
 
-**Healthcare accessibility platform**
+### 🧘 Divine Yoga Studio
+Website and management platform for a yoga and wellness studio.
+- **Features:** programs, trainers, scheduling, user accounts, responsive UI
+- **Stack:** React · Node.js · MongoDB
 
-`PWA` `React` `Node.js`
-
-Offline-first • ASHA workflow • Teleconsultation • Emergency support
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🛠️ Tech Universe
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
-
-<br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
-<br>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql" />
-
-<br>
-
-### Tools & Cloud
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma" />
-
-</div>
+### ⚖️ Law Kaksha
+Legal education platform with structured courses and student interaction.
+- **Features:** courses, learning content, student management
+- **Stack:** React · Node.js · MongoDB
 
 ---
 
-# 🔭 Currently Building
+## How I Work
 
-<div align="center">
+1. **Understand** the problem and the users
+2. **Design** the architecture and data model
+3. **Build** in small, testable increments
+4. **Test and debug** to find what fails and why
+5. **Ship** and iterate
 
-<table>
-<tr>
-<td>
+---
 
-```text
-╭──────────────────────────────────────────╮
-│                                          │
-│   PARTH'S DEV LAB                       │
-│                                          │
-│   ├── Full Stack Development    ███████░ │
-│   ├── Backend Engineering       ██████░░ │
-│   ├── AI / ML                   █████░░░ │
-│   ├── DSA                       █████░░░ │
-│   └── System Design             ████░░░░ │
-│                                          │
-│   STATUS: BUILDING                       │
-│                                          │
-╰──────────────────────────────────────────╯
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parthracka-glitch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthracka-glitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" alt="Top languages"/>
+</p>
+
+---
+
+## Let's Connect
+
+I'm open to internships, collaborations and interesting projects. Reach me at **[parthracka@gmail.com](mailto:parthracka@gmail.com)**.
+
+<p align="center"><sub>Built by Parth Racka</sub></p>
