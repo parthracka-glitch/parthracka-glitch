@@ -1,102 +1,58 @@
 <div align="center">
 
-# PARTH RACKA
+<!-- HERO -->
 
-### Full Stack Developer · B.Tech IT · AI/ML Learner
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=180&section=header&text=PARTH%20RACKA&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%20•%20%20AI%2FML%20LEARNER&descAlignY=65&descSize=15"/>
 
-Building real-world applications, business platforms and useful software.
+### Building ideas → products → real-world software
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/parthracka-glitch)
-[![Repositories](https://img.shields.io/badge/Repositories-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/parthracka-glitch?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=parthracka-glitch&style=flat-square&color=0D1117&label=Views)](https://github.com/parthracka-glitch)
-
-</div>
-
----
-
-## ABOUT
-
-B.Tech Information Technology student focused on **full-stack development, backend engineering and AI/ML**.
-
-I enjoy turning ideas into practical products — from business platforms and booking systems to healthcare and management applications.
-
-**Currently:** `Full Stack` · `Backend` · `AI/ML` · `DSA` · `System Design`
-
----
-
-## TECH STACK
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=58A6FF)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=58A6FF)
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=58A6FF)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=58A6FF)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=58A6FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=58A6FF)
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=58A6FF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=58A6FF)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=58A6FF)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF)
+<p>
+  <a href="https://github.com/parthracka-glitch">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:parthracka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## SELECTED WORK
+## ⚡ About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%">
 
-### 🚗 Modern Self Drive
+### Hi, I'm Parth 👋
 
-Self-drive **car & bike rental platform** with vehicle listings, bookings, KYC, authentication, payments and admin management.
+I'm a **B.Tech Information Technology student** focused on building practical software and learning how modern systems work.
 
-**React · Node.js · MongoDB**
+I enjoy turning ideas into:
 
-</td>
+- 🌐 Full-stack web applications
+- ⚙️ Backend systems & APIs
+- 🚗 Business & booking platforms
+- 🏥 Healthcare applications
+- 🤖 AI/ML experiments
+- 🧩 Problem-solving & system design
 
-<td width="50%" valign="top">
+<br>
 
-### 🏥 AarogyaSetu Bridge
+**Current focus**
 
-**Offline-first healthcare platform** connecting patients, ASHA workers and healthcare facilities with digital triage and teleconsultation.
-
-**React · PWA · Node.js · MongoDB**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧘 Divine Yoga Studio
-
-Centralized **studio management platform** for members, batches, instructors, attendance, memberships, schedules and records.
-
-**React · Node.js · MongoDB**
+`Full Stack` · `Backend` · `AI/ML` · `DSA` · `System Design`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" align="center">
 
-### 🚌 Aarambha Travels
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,aws,git&perline=4" />
 
-Travel platform for **tour packages, rental buses and self-drive cars**, with service, vehicle and booking management.
+<br><br>
 
-**React · Node.js · MongoDB**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=330&lines=Building+real-world+products;Learning+AI%2FML;Exploring+backend+systems;Turning+ideas+into+software" />
 
 </td>
 </tr>
@@ -104,67 +60,167 @@ Travel platform for **tour packages, rental buses and self-drive cars**, with se
 
 ---
 
-## CLIENT & BUSINESS SOLUTIONS
-
-Building custom digital products for real-world businesses.
-
-`Business Websites` · `Booking Systems` · `Admin Dashboards` · `Management Systems` · `Rental Platforms` · `Travel Platforms`
-
----
-
-## GITHUB
+# 🧠 What I Build
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=parthracka-glitch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&include_all_commits=true&rank_icon=github" />
+<table>
+<tr>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthracka-glitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&langs_count=6" />
+<td width="33%" align="center">
+
+### 🌐 WEB
+
+Modern interfaces  
+Full-stack applications  
+Responsive experiences
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ BACKEND
+
+REST APIs  
+Authentication  
+Databases  
+Business logic
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI / ML
+
+Python  
+Machine Learning  
+Automation  
+Intelligent systems
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
+---
+
+# 🚀 Selected Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚗 Modern Self Drive
+
+**Self-drive car & bike rental platform**
+
+`React` `Node.js` `MongoDB` `Razorpay`
+
+Booking system • KYC • OTP • Payments • Admin
+
+</td>
+
+<td width="50%">
+
+### 🧘 Divine Yoga Studio
+
+**Modern wellness & yoga platform**
+
+`React` `Node.js` `MongoDB`
+
+Programs • Trainers • Scheduling • Responsive UI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚖️ Law Kaksha
+
+**Educational platform for legal studies**
+
+`React` `Node.js` `MongoDB`
+
+Courses • Content • Student experience • Branding
+
+</td>
+
+<td width="50%">
+
+### 🏥 AarogyaSetu Bridge
+
+**Healthcare accessibility platform**
+
+`PWA` `React` `Node.js`
+
+Offline-first • ASHA workflow • Teleconsultation • Emergency support
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠️ Tech Universe
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
 
 <br>
 
-<div align="center">
+### Frontend
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=parthracka-glitch&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" />
-
-</div>
-
----
-
-## CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthracka-glitch&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&hide_border=true&custom_title=Parth's%20Contribution%20Graph" />
-
-</div>
-
----
-
-## CURRENTLY LEARNING
-
-<div align="center">
-
-![AI](https://img.shields.io/badge/AI-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF)
-![Machine Learning](https://img.shields.io/badge/ML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=58A6FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
-![DSA](https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF)
-![System Design](https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=58A6FF)
-
-</div>
-
----
-
-<div align="center">
-
-### BUILD · LEARN · IMPROVE
-
-*Turning ideas into useful software.*
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Follow-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/parthracka-glitch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/)
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql" />
+
+<br>
+
+### Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma" />
 
 </div>
+
+---
+
+# 🔭 Currently Building
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```text
+╭──────────────────────────────────────────╮
+│                                          │
+│   PARTH'S DEV LAB                       │
+│                                          │
+│   ├── Full Stack Development    ███████░ │
+│   ├── Backend Engineering       ██████░░ │
+│   ├── AI / ML                   █████░░░ │
+│   ├── DSA                       █████░░░ │
+│   └── System Design             ████░░░░ │
+│                                          │
+│   STATUS: BUILDING                       │
+│                                          │
+╰──────────────────────────────────────────╯
